@@ -1,0 +1,11 @@
+{
+  "appId": "eu.ebanking.europe",
+  "appName": "E-Banking Europe",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "always",
+    "allowsLinkPreview": false,
+    "handleApplicationURL": true
+  }
+}
